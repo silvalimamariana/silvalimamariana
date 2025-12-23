@@ -85,7 +85,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-ori
 </br> 
 </br> 
 
-📊 Estatísticas
+### 📊 Estatísticas
 
 <img 
     align="left"
