@@ -85,3 +85,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-ori
 </br> 
 </br> 
 
+📊 Estatísticas
+
+<img 
+    align="left"
+    alt="Status"
+    height="200"
+    stylle="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=silvalimamariana&show_icons=true&theme=ocean_dark&include_all_commits=true&locate=pt-br"
+/>
+
+<img 
+    align="left"
+    alt="Status"
+    height="200"
+    stylle="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvalimamariana&theme=ocean_dark&layout-compact&custom_title=Tecnologias&langs_count=8"
+/>
+
