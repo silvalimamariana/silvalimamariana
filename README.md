@@ -3,7 +3,7 @@
 
 **`Desenvolvedora de Software`**
 
-> Tenho 20 anos e estou buscando me aprofundar mais nos meus conhecimentos de **Tecnologia da Informação**.
+> Tenho 21 anos e estou buscando me aprofundar mais nos meus conhecimentos de **Tecnologia da Informação**.
 
 ---
 ### 🤖 Linguagens e Tecnologias
