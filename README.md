@@ -1,13 +1,22 @@
-
-# 💻 Mariana Lima
+# .✦ ݁˖ Mariana Lima
 
 **`Desenvolvedora de Software`**
 
-> Tenho 21 anos e estou buscando me aprofundar mais nos meus conhecimentos de **Tecnologia da Informação**.
+Olá, me chamo Mariana e tenho 21 anos. Sou desenvolvedora de Software e fascinada por tecnologia. Atualmente busco me aprofundar mais e mais nos meus estudos, criando projetos práticos com Python, Java e JavaScript e evoluindo continuamente minhas habilidades.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=1000&lines=*+BEM-VINDOS+AO+MEU+GITHUB.;*+CONTINUE+DETERMINADO." />
+</p>
+
+<p align="center">
+    <img
+        width="40"
+        src="https://github.com/user-attachments/assets/0e0acc62-413a-4e7c-a212-7b5f9c212f9d"
+    />
+</p>
+
+### **Linguagens e Tecnologias**
 ---
-### 🤖 Linguagens e Tecnologias
-
 
 <img 
     align="left"
@@ -82,23 +91,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
 
-</br> 
+<br> 
 
-<!-- ### 📊 Estatísticas
+### **Estatísticas**
+---
 
-<img 
+<img
     align="left"
-    alt="Status"
-    height="200"
-    stylle="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=silvalimamariana&show_icons=true&theme=ocean_dark&include_all_commits=true&locate=pt-br"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=silvalimamariana&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    height="180"
 />
 
-<img 
+
+<img
     align="left"
-    alt="Status"
-    height="200"
-    stylle="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvalimamariana&theme=ocean_dark&layout-compact&custom_title=Tecnologias&langs_count=8"
+    src="https://github-readme-stats.shion.dev/api?username=silvalimamariana&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false"
+    height="180"
 />
--->
+
