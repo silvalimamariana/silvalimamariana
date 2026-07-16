@@ -1,4 +1,4 @@
-# .✦ ݁˖ Mariana Lima
+# Mariana Lima
 
 **`Desenvolvedora de Software`**
 
