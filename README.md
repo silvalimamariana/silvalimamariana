@@ -98,14 +98,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-ori
 
 <img
     align="left"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=silvalimamariana&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=silvalimamariana&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     height="180"
 />
 
-
 <img
     align="left"
-    src="https://github-readme-stats.shion.dev/api?username=silvalimamariana&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.shion.dev/api?username=silvalimamariana&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false"
     height="180"
 />
 
